@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chain-l
 - 👀 I’m interested in blockchain governance, data analysis & architecture
 - 🌱 I’m currently learning governance & analytics
-- 💞️ I’m looking to collaborate on any blockchain-related project
+- 💞️ I’m building Chora Club to foster governance.
 - 📫 How to reach me- Discord @Chain_l or Telegram:- Same handle
 
 <!---
